@@ -211,6 +211,15 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "dual_image_banner": {
+      "type": "dual-image-banner",
+      "settings": {
+        "heading": "Discover Your Sound",
+        "text": "<p>Explore our premium collection of vocal equipment and resources designed to help you achieve your musical goals.</p>",
+        "button_label": "Shop Now",
+        "button_link": "/collections/all"
+      }
     }
   },
   "order": [
@@ -220,6 +229,7 @@
     "featured-collection",
     "about-section",
     "rich_text_K7WR47",
-    "featured_product_QAkmqd"
+    "featured_product_QAkmqd",
+    "dual_image_banner"
   ]
 }
