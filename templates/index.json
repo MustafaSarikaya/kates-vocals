@@ -37,7 +37,9 @@
       "blocks": {
         "image": {
           "type": "image",
-          "settings": {}
+          "settings": {
+            "image": "shopify://shop_images/dj-in-action-making-music.jpg"
+          }
         },
         "collection": {
           "type": "collection",
@@ -114,11 +116,12 @@
     "about-section": {
       "type": "about-section",
       "settings": {
+        "image": "shopify://shop_images/summer-fashion-buying-music.jpg",
         "heading": "About Kate's Vocals",
         "text": "<p>Discover the power and beauty of vocal expression with Kate's Vocals. We offer a curated collection of vocal training resources and equipment to help you unleash your true voice.</p>",
         "color_scheme": "scheme-1",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 60,
+        "padding_bottom": 60
       }
     },
     "rich_text_K7WR47": {
@@ -215,10 +218,13 @@
     "dual_image_banner": {
       "type": "dual-image-banner",
       "settings": {
+        "image_1": "shopify://shop_images/record-spinning.jpg",
+        "image_2": "shopify://shop_images/green-and-white-marbled-coloring.jpg",
         "heading": "Discover Your Sound",
         "text": "<p>Explore our premium collection of vocal equipment and resources designed to help you achieve your musical goals.</p>",
         "button_label": "Shop Now",
-        "button_link": "/collections/all"
+        "button_link": "/collections/all",
+        "color_scheme": "scheme-4"
       }
     }
   },
